@@ -1,0 +1,23 @@
+input {
+    align-items: center;
+    width: 80px;
+    height: 50px;
+    font-size: 38px;
+    border-radius: 10px;
+    margin: 10px;
+    background-color: #000;
+    color:antiquewhite;
+    border-style: none;
+}
+
+#myform {
+    margin-left: 225px;
+    margin-top: 20px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 80px;
+    margin-left: 150px;
+    margin-top: 20px;
+}
